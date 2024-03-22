@@ -16,7 +16,7 @@ Environmentally Aware: By utilizing dotenv for environment variable management, 
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com
+  git clone https://github.com/saketk511/Autodigest
 ```
 2.Navigate to the project directory:
 
